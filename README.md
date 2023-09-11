@@ -3,9 +3,9 @@ I'm Fitrah Ramadhan, a Junior Web Developer
 
 ### Statistics
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=rexhark&count_private=true&show_icons=true&theme=react&include_all_commits=true" alt="rexhark" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexhark&show_icons=true&locale=en&layout=compact&theme=react" alt="rexhark" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compact&theme=react&langs_count=6" alt="rexhark" />  
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rexhark&hide=stars&layout=compact&theme=transparent&show_icons=true" alt="rexhark" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexhark&show_icons=true&layout=compact&theme=react" alt="rexhark" />
+  <img height="137.5" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compact&theme=react" alt="rexhark" />  
 </div>
 
 
