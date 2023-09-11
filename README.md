@@ -1,8 +1,10 @@
 ### Hi there 👋
+I'm Fitrah Ramadhan, a Front end developer
 
-[![Rexhark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexhark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexhark&layout=compact)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Statistics
+[![Rexhark's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexhark&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexhark&layout=compact&theme=react) </br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compact&theme=react )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rexhark/Rexhark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
