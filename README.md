@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fitrah Ramadhan, a Front end developer
+I'm Fitrah Ramadhan, a Junior Web Developer
 
 ### Statistics
 <div>
