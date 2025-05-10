@@ -4,7 +4,7 @@ I'm Fitrah Ramadhan, a Junior Web Developer
 ### Statistics
 <div align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=rexhark&color=lightgrey&style=flat-square" /> -->
-  <div>
+  <div style="markdown-1">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rexhark&theme=transparent" />
   <div>
   <div>
@@ -12,7 +12,7 @@ I'm Fitrah Ramadhan, a Junior Web Developer
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexhark&show_icons=true&layout=compact&theme=transparent" alt="rexhark" />
   </div>
   <div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compactk&theme=transparent&langs_count=5" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compactk&theme=transparent&langs_count=5&custom_title=WakaTime+Stats+(Top+5+Languages)" />
   </div>
 </div>
 
