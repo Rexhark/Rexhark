@@ -3,16 +3,16 @@ I'm Fitrah Ramadhan, a Junior Web Developer
 
 ### Statistics
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rexhark&color=lightgrey&style=flat-square" />
+<!--   <img src="https://komarev.com/ghpvc/?username=rexhark&color=lightgrey&style=flat-square" /> -->
+  <div>
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rexhark&theme=transparent" />
+  <div>
   <div>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=rexhark&hide=stars&layout=compact&theme=transparent&show_icons=true" alt="rexhark" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexhark&show_icons=true&layout=compact&theme=transparent" alt="rexhark" />
   </div>
   <div>
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rexhark&theme=transparent" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compactk&theme=transparent&langs_count=5" />
-  <div>
-  <div>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=rexhark&layout=compactk&theme=transparent&langs_count=5" />
   </div>
 </div>
 
